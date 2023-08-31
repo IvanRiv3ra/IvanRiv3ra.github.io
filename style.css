@@ -1,0 +1,20 @@
+.linea{
+    
+    display: flex;
+    font-size: 12px;
+}
+
+.imagen{
+
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+
+.button{
+
+    display: flex;
+    justify-content: center;
+}
