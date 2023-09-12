@@ -144,7 +144,7 @@ button:disabled {
     margin: 40px;
     border-radius: 30px;
     width: 40%;
-    height: 64vh;
+    height: 55vh;
     overflow-y: auto;
 }
 
@@ -162,7 +162,7 @@ button:disabled {
     margin: 40px;
     border-radius: 30px;
     width: 40%;
-    height: 64vh;
+    height: 55vh;
     overflow-y: auto;
 }
 
@@ -186,7 +186,7 @@ button:disabled {
 
     display: flex;
     justify-content: center;
-    margin-bottom: 4%;
+    margin-bottom: 10%;
 }
 
 .img-tec {
